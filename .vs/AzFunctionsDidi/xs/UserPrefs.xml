@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{52AECDFD-1703-4701-9060-196A874C975D}|Default">
+  <MonoDevelop.Ide.ItemProperties.AzFunctionsDidi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AzFunctionsDidi/MyServiceBusQueueTrigger.cs">
+    <Files>
+      <File FileName="AzFunctionsDidi/MyTimerFunction.cs" Line="17" Column="1" />
+      <File FileName="AzFunctionsDidi/MyServiceBusQueueTrigger.cs" Line="1" Column="1" />
+      <File FileName="AzFunctionsDidi/MyHttpFunction.cs" Line="1" Column="1" />
+      <File FileName="AzFunctionsDidi/local.settings.json" Line="8" Column="2" />
+      <File FileName="AzFunctionsDidi/Properties/serviceDependencies.json" Line="1" Column="1" />
+      <File FileName="AzFunctionsDidi/Properties/serviceDependencies.local.json" Line="1" Column="1" />
+      <File FileName="AzFunctionsDidi/host.json" Line="1" Column="1" />
+      <File FileName="AzFunctionsDidi/.gitignore" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AzFunctionsDidi" expanded="True">
+            <Node name="AzFunctionsDidi" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="MyServiceBusQueueTrigger.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
